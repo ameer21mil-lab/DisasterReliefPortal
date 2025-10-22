@@ -1,0 +1,17 @@
+﻿@model IEnumerable<YourNamespace.Models.Task>
+@{
+    ViewData["Title"] = "Volunteer Dashboard";
+}
+
+<h1>Volunteer Dashboard</h1>
+
+<div class="dashboard-stats">
+    <p>Tasks Assigned: @ViewBag.TasksCount</p>
+    <p>Messages from Admin: 0</p>
+</div>
+
+<div class="panel">
+    <strong>Volunteer Panel</strong>
+    <a href="/Volunteer/SubmitReport">Submit Report</a>
+    <a href="/Volunteer/ViewTasks">View Tasks</a>
+</div>

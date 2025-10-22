@@ -1,0 +1,33 @@
+﻿<h2>Debug Information</h2>
+
+<p><strong>Current User ID:</strong> @ViewBag.CurrentUserId</p>
+<p><strong>Current Username:</strong> @ViewBag.UserName</p>
+<p><strong>Total Tasks in Database:</strong> @ViewBag.TaskCount</p>
+
+<h3>All Tasks:</h3>
+@if (ViewBag.AllTasks != null && ViewBag.AllTasks.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Task Name</th>
+                <th>Assigned To User ID</th>
+                <th>Match?</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var task in ViewBag.AllTasks)
+            {
+                <tr>
+                    <td>@task.Name</td>
+                    <td>@task.AssignedToUserId</td>
+                    <td>@(task.AssignedToUserId == ViewBag.CurrentUserId ? "✓ YES" : "✗ NO")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No tasks in database</p>
+}

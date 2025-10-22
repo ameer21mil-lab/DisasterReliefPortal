@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Donate";
+}
+
+<h2>Make a Donation</h2>
+
+@if (TempData["DonationSuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["DonationSuccessMessage"]
+    </div>
+}
+
+<form method="post">
+    <!-- Donation form fields here -->
+</form>

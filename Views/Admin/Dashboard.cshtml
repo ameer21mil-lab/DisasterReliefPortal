@@ -1,0 +1,36 @@
+﻿@model YourNamespace.Models.AdminDashboardViewModel
+
+<div class="container">
+    <h1>Admin Dashboard</h1>
+    <p>Number of Volunteers: @Model.VolunteerCount</p>
+    <p>Number of Incident Reports: @Model.ReportCount</p>
+    <p>Number of Donations: @Model.DonationCount</p>
+
+    <h2>Registered Volunteers</h2>
+    <ul class="list-group">
+        @foreach (var volunteer in Model.Volunteers)
+        {
+            <li class="list-group-item">
+                <strong>@volunteer.FullName</strong> (@volunteer.UserName) <!-- Updated to UserName -->
+            </li>
+        }
+    </ul>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #E6E6FA;">
+    <a class="navbar-brand" href="#">Admin Panel</a>
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" asp-action="AllocateTasks">Allocate Tasks</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-action="ViewIncidentReports">View Reports</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-action="ViewDonations">View Donations</a>
+            </li>
+          
+        </ul>
+    </div>
+</nav>

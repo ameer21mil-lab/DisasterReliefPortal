@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebApplication1.Models.IncidentReport>
+
+@{
+    ViewData["Title"] = "Incident Reports";
+}
+
+<h1>Incident Reports</h1>
+
+<div class="table-container">
+    <table>
+    <thead>
+        <tr>
+                <th>Report ID</th>
+                <th>
+                <th>Description</th>
+                <th>
+                <th>Reported On</th>
+                <th>
+            <th>Status</th>
+            <th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var report in Model)
+            {
+                <tr>
+                        <td>@report.Id</td>
+                        <td>
+                        <td>@report.Title</td>
+                        <td>
+                        <td>@report.DateSubmitted.ToString("MM/dd/yyyy")</td>
+                        <td>
+                    <!-- Use the correct property name here -->
+                        <td>@report.Description</td><td>
+                    <td>@report.Location</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">No incident reports available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<YourNamespace.Models.Donation>
+
+@{
+    ViewData["Title"] = "View Donations";
+}
+
+<h1>Donations</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Donation ID</th>
+            <th>Amount</th>
+            <th>Description</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var donation in Model)
+        {
+            <tr>
+                <td>@donation.Id</td>
+                <td>@donation.Amount.ToString("C")</td> <!-- Format as currency -->
+                <td>@donation.Description</td>
+                <td>@(donation.Date.ToString("MM/dd/yyyy") ?? "No date specified")</td> <!-- Handle nullable DateTime -->
+            </tr>
+        }
+    </tbody>
+</table>

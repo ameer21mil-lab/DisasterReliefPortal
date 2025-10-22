@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\ameer\OneDrive\Documents\Ameer_miller_ST10067171_PART_2_POE\ST10067171_APP\untitled folder 18\WebApplication1 (2)\WebApplication1\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ameer\OneDrive\Documents\Ameer_miller_ST10067171_PART_2_POE\ST10067171_APP\untitled folder 18\WebApplication1 (2)\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Admin/AllocateTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxsb2NhdGVUYXNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Admin/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VuZE1lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Admin/ViewDonations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0RvbmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Admin/ViewIncidentReports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0luY2lkZW50UmVwb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Donations/DonorLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERvbm9yTGFuZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Donations/MakeDonation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXE1ha2VEb25hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Donations/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXFRoYW5rWW91LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Home/AdminLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkxhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Home/DonationSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb25hdGlvblN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Home/DonorLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb25vckxhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Home/VolunteerLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWb2x1bnRlZXJMYW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Volunteer/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Volunteer/DebugTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXERlYnVnVGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Volunteer/IncidentReportSubmittedSuccessfully.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXEluY2lkZW50UmVwb3J0U3VibWl0dGVkU3VjY2Vzc2Z1bGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Volunteer/NoTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXE5vVGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Volunteer/SubmitReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXFN1Ym1pdFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Volunteer/ViewTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXFZpZXdUYXNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ameer/OneDrive/Documents/Ameer_miller_ST10067171_PART_2_POE/ST10067171_APP/untitled folder 18/WebApplication1 (2)/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

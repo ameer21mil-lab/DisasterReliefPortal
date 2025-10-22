@@ -1,0 +1,39 @@
+﻿@model WebApplication1.Models.SubmitReportViewModel
+@{
+    ViewData["Title"] = "Submit Your Disaster Incident Report";
+}
+
+<h1>Submit Disaster Incident Report</h1>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <textarea asp-for="Description"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Location">Location</label>
+        <input asp-for="Location" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DateReported">Date Reported</label>
+        <input asp-for="DateReported" type="date" />
+        <span asp-validation-for="DateReported" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Report</button>
+</form>
